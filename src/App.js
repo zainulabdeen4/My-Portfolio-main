@@ -4,7 +4,7 @@ import Main from "./containers/Main";
 import { ThemeProvider } from "styled-components";
 import { themes } from "./theme";
 import { GlobalStyles } from "./global";
-import { CursorProvider } from "react-cursor-custom";
+// import { CursorProvider } from "react-cursor-custom";
 import { settings } from "./portfolio";
 import ReactGA from "react-ga";
 
@@ -26,7 +26,7 @@ function App() {
       <>
         <GlobalStyles />
         <div>
-          {useCursor ? (
+          {/* {useCursor ? (
             <CursorProvider
               color={themes[theme].secondaryText}
               ringSize={25}
@@ -34,9 +34,9 @@ function App() {
             >
               <Main theme={themes[theme]} setTheme={setTheme} />
             </CursorProvider>
-          ) : (
+          ) : ( */}
             <Main theme={themes[theme]} setTheme={setTheme} />
-          )}
+          {/* )} */}
         </div>
       </>
     </ThemeProvider>
