@@ -19,16 +19,6 @@ const greeting = {
 };
 
 const socialMediaLinks = {
-<<<<<<< ours
-  stackoverflow: "https://stackoverflow.com/users/10657559",
-  github: "https://github.com/thanhal-p-a",
-  linkedin: "https://www.linkedin.com/in/thanhal",
-  gmail: "thanhalpa@gmail.com",
-  instagram: "https://www.instagram.com/thanhal_rafi/",
-  whatsapp: "https://wa.me/919656464080?text=",
-  number: "+919656464080",
-  npm: "https://www.npmjs.com/~thanhal",
-=======
   // stackoverflow: "https://stackoverflow.com/users/10657559",
   github: "https://github.com/zainulabdeen4",
   linkedin: "https://www.linkedin.com/in/zain-ul-abdeen/",
@@ -37,7 +27,6 @@ const socialMediaLinks = {
   whatsapp: "https://wa.me/966566482857?text=",
   number: "+966566482857",
   // npm: "https://www.npmjs.com/~thanhal",
->>>>>>> theirs
 };
 
 const contactInfo = {
