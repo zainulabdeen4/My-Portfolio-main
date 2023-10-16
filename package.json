@@ -67,5 +67,5 @@
     "*.json": "prettier-package-json --write",
     "*.{js,css,md}": "prettier --write"
   },
-  "homepage": "http://{zainulabdeen4}.github.io/{My-Portfolio-main}"
+  "homepage": "http://zainulabdeen4.github.io/My-Portfolio-main"
 }
