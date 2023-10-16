@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/%7BMy-Portfolio-main%7D/static/css/main.a44205ae.chunk.css",
+    "main.js": "/%7BMy-Portfolio-main%7D/static/js/main.83edf26b.chunk.js",
+    "main.js.map": "/%7BMy-Portfolio-main%7D/static/js/main.83edf26b.chunk.js.map",
+    "runtime-main.js": "/%7BMy-Portfolio-main%7D/static/js/runtime-main.d6ff5e7d.js",
+    "runtime-main.js.map": "/%7BMy-Portfolio-main%7D/static/js/runtime-main.d6ff5e7d.js.map",
+    "static/js/2.063b3d5c.chunk.js": "/%7BMy-Portfolio-main%7D/static/js/2.063b3d5c.chunk.js",
+    "static/js/2.063b3d5c.chunk.js.map": "/%7BMy-Portfolio-main%7D/static/js/2.063b3d5c.chunk.js.map",
+    "index.html": "/%7BMy-Portfolio-main%7D/index.html",
+    "precache-manifest.47a8ff77a1a8b47ceeff6700f249019e.js": "/%7BMy-Portfolio-main%7D/precache-manifest.47a8ff77a1a8b47ceeff6700f249019e.js",
+    "service-worker.js": "/%7BMy-Portfolio-main%7D/service-worker.js",
+    "static/css/main.a44205ae.chunk.css.map": "/%7BMy-Portfolio-main%7D/static/css/main.a44205ae.chunk.css.map",
+    "static/js/2.063b3d5c.chunk.js.LICENSE.txt": "/%7BMy-Portfolio-main%7D/static/js/2.063b3d5c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/%7BMy-Portfolio-main%7D/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/AmcatLogo.png": "/%7BMy-Portfolio-main%7D/static/media/AmcatLogo.baffb94f.png",
+    "static/media/CusatLogo.png": "/%7BMy-Portfolio-main%7D/static/media/CusatLogo.f90b4fcd.png",
+    "static/media/EmkanLogo.png": "/%7BMy-Portfolio-main%7D/static/media/EmkanLogo.166bfa04.png",
+    "static/media/GateLogo.png": "/%7BMy-Portfolio-main%7D/static/media/GateLogo.7c7d143e.png",
+    "static/media/KeralaLogo.png": "/%7BMy-Portfolio-main%7D/static/media/KeralaLogo.a9bde176.png",
+    "static/media/OnwardLogo.png": "/%7BMy-Portfolio-main%7D/static/media/OnwardLogo.5c77079b.png",
+    "static/media/TcsLogo.png": "/%7BMy-Portfolio-main%7D/static/media/TcsLogo.66af2ecc.png",
+    "static/media/ZeroneLogo.png": "/%7BMy-Portfolio-main%7D/static/media/ZeroneLogo.6e4af8f0.png",
+    "static/media/all.css": "/%7BMy-Portfolio-main%7D/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/piaic.png": "/%7BMy-Portfolio-main%7D/static/media/piaic.f4fa9f26.png",
+    "static/media/profile_photo.jpg": "/%7BMy-Portfolio-main%7D/static/media/profile_photo.d884dbe2.jpg",
+    "static/media/rc.svg": "/%7BMy-Portfolio-main%7D/static/media/rc.bc9a9542.svg",
+    "static/media/rs.png": "/%7BMy-Portfolio-main%7D/static/media/rs.0088c1ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6ff5e7d.js",
+    "static/js/2.063b3d5c.chunk.js",
+    "static/css/main.a44205ae.chunk.css",
+    "static/js/main.83edf26b.chunk.js"
+  ]
+}
