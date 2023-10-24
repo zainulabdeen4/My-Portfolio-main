@@ -15,7 +15,8 @@ const greeting = {
   full_name: "Zain Ul Abdeen",
   subTitle:
     "Senior Software Engineer, React Native Enthusiast, Hybrid Mobile App Developer (iOS & Android).",
-  resumeLink: "",
+  resumeLink:
+    "https://drive.google.com/file/d/1wMnGAFrg6YsqFKP6fAL7_otPU3h75ixj/view",
 };
 
 const socialMediaLinks = {
